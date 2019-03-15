@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LoginFake</string>
+    <string name="app_hint_username">Username</string>
+    <string name="app_hint_pw">Password</string>
 </resources>
